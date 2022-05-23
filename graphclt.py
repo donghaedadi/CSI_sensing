@@ -59,6 +59,7 @@ for r in range(100):
     figure.canvas.flush_events()
     time.sleep(0.1)
 
+
     # figure.canvas.draw.save(r'animation.gif', fps=10)
 
 
